@@ -21,3 +21,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 - MattyJacks
+
+
+## Notes
+
+To get the custom icons in the terminal in command prompt:
+
+flutter pub add fluentui_icons && flutter pub get
